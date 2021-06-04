@@ -16,7 +16,7 @@ test_that("1.1", {
 
 
 #' @editor Val A Dashun
-#' @editDate TODAYS DATE
+#' @editDate 2021-06-03
 test_that("1.2",{
   hello_result <- hello_world(c("Johnny", "Beth", "Andy","Elisabeth"))
 
